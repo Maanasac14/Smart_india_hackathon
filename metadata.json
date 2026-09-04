@@ -1,0 +1,8 @@
+{
+  "name": "NCMRWF Forecast Divergence Monitoring System",
+  "description": "NCMRWF Operational Forecast Divergence Monitoring System prototype with live GFS telemetry, 2D cartography, and conformal prediction (SIH26079).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
